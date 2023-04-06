@@ -1,0 +1,2 @@
+git remote repository
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIND+Ww0HjlWgiF7fRSbtpOjzN79sdAdKJzWek9LqI7xF laraib@gmail.com
